@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scratch/Scenes/Menu.unity
+    guid: 9eb7be6af2e47534fa1a7440c5c5eb0a
+  - enabled: 1
+    path: Assets/Scratch/Scenes/Result.unity
+    guid: 9a671592a71bf134080eb323fa64f7ea
+  - enabled: 1
+    path: Assets/Scratch/Scenes/MainGame.unity
+    guid: 78a4b0a0830fe9b4eb940695cad06f13
+  - enabled: 1
+    path: Assets/Scratch/Scenes/Collection.unity
+    guid: b3459054fded87640bd6a176e1e501b9
+  - enabled: 1
+    path: Assets/sPACEwORDS/Scenes/AstranautScene.unity
+    guid: e9815e44ecd2e534fbb49e9fe4fcc4fb
+  - enabled: 1
+    path: Assets/sPACEwORDS/Scenes/ConstillationScene.unity
+    guid: c64c0895de3ef394eb1d16fddc4d9f2b
+  - enabled: 1
+    path: Assets/sPACEwORDS/Scenes/CosmodromeScene.unity
+    guid: e6ad1891143d3594487680b04d6c93a8
+  - enabled: 1
+    path: Assets/sPACEwORDS/Scenes/GalaxyScene.unity
+    guid: 81e751d714eeea64db9496e5c6d5c1db
+  - enabled: 1
+    path: Assets/sPACEwORDS/Scenes/GravitationScene.unity
+    guid: 7833acdec8a7f724092c845f1b02f5b2
+  - enabled: 1
+    path: Assets/sPACEwORDS/Scenes/IlluminatorScene.unity
+    guid: a995954fbf91cd94d9b284235954388f
+  - enabled: 1
+    path: Assets/sPACEwORDS/Scenes/MercuryScene.unity
+    guid: f49c0489cf96c5841ab4eeeacbfc331f
+  - enabled: 1
+    path: Assets/sPACEwORDS/Scenes/MeteoritScene.unity
+    guid: c1285d522019c734abac370d4ef538b0
+  - enabled: 1
+    path: Assets/sPACEwORDS/Scenes/MoonRoverScene.unity
+    guid: e4d234c51fa745b4c8a1b8bf42ec66e6
+  - enabled: 1
+    path: Assets/sPACEwORDS/Scenes/PlanetaryScene.unity
+    guid: 66bd4f88688a0b74c90eda28cd1d9b70
+  - enabled: 1
+    path: Assets/sPACEwORDS/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/sPACEwORDS/Scenes/SateliteScene.unity
+    guid: 14e20e9c9f7e7ae49b27ee0ffc294e35
+  - enabled: 1
+    path: Assets/sPACEwORDS/Scenes/ScafandrScene.unity
+    guid: 700e26383e398b54c961761eb91d9537
+  - enabled: 1
+    path: Assets/sPACEwORDS/Scenes/StartScene.unity
+    guid: bd69a2be8529b814d8eb1d4ea8175b99
+  - enabled: 1
+    path: Assets/sPACEwORDS/Scenes/StratosphereScene.unity
+    guid: 2130d905dee90e64f945b9a8981030e9
+  - enabled: 1
+    path: Assets/sPACEwORDS/Scenes/UniverseScene.unity
+    guid: 68514f100eed12f45969b1f1a85d30a1
+  - enabled: 1
+    path: Assets/sPACEwORDS/Scenes/WeightlessnessScene.unity
+    guid: 7ffb30816f5d10c418adf52238131f3c
+  m_configObjects: {}
